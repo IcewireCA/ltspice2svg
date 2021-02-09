@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+	
+<svg
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	width = "480" height = "544"
+	viewBox="-128 96 480 544"
+	version="1.1"
+	id="svg8"
+	inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+	sodipodi:docname="test.svg">
+	<defs
+		id="defs9" />
+	<sodipodi:namedview
+		 id="base"
+		 pagecolor="#ffffff"
+		 bordercolor="#666666"
+		 borderopacity="1.0"
+		 inkscape:pageopacity="0.0"
+		 inkscape:pageshadow="2"
+		 inkscape:zoom="1.0"
+		 inkscape:cx="1024"
+		 inkscape:cy="1024"
+		 inkscape:document-units="px"
+		 inkscape:current-layer="layer1"
+		 showgrid="true"
+		 inkscape:window-width="1024"
+		 inkscape:window-height="1024"
+		 inkscape:window-x="1024"
+		 inkscape:window-y="1024"
+		 inkscape:window-maximized="0"
+		 showguides="true"
+		 units="px"
+		 fit-margin-top="0"
+		 fit-margin-left="0"
+		 fit-margin-right="0"
+		 fit-margin-bottom="0"
+		 inkscape:snap-to-guides="false"
+		 inkscape:snap-grids="true"
+		 inkscape:snap-nodes="false"
+		 inkscape:object-nodes="true"
+		 inkscape:object-paths="false"
+		 inkscape:snap-bbox="true"
+		 inkscape:snap-bbox-midpoints="false"
+		 inkscape:bbox-nodes="true">
+	
+		<inkscape:grid
+		   type="xygrid"
+		   id="grid815"
+		   spacingx="16"
+		   spacingy="16"
+		   empspacing="1"
+		   dotted="true"
+		   units="px"
+		   originx="0"
+		   originy="0"
+		   enabled="true" />
+	  </sodipodi:namedview>
+	  <metadata
+		 id="metadata5">
+		<rdf:RDF>
+		  <cc:Work
+			 rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type
+			   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title />
+		  </cc:Work>
+		</rdf:RDF>
+	  </metadata>
+	
+<defs>
+	<g id="svg_supply">
+      <polygon points="-6,0 0,-15 6,0" style="fill:black;fill-opacity:1;stroke:black;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_port">
+      <circle cx="0" cy="0" r="6" style="stroke:black; fill:black"/>
+      <circle cx="0" cy="0" r="3" style="stroke:white; fill:white"/>
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_dot">
+      <circle cx="0" cy="0" r="5" style="stroke:#000000; fill:#000000"/>
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+     <g id="svg_gnd">
+      <path 
+     d="M 0,0 0,8
+     M -14,8 14,8
+     M -8,14 8,14
+     M -2,20 2,20"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     />
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_jumpCirc">
+      <circle cx="0" cy="0" r="6" style="stroke:#000000;stroke-width:2.5;fill:#ffffff"/>
+      <rect x="-8" y="1.25" width="16" height="7" style="fill:#ffffff;stroke:none"/>
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_jumpLine">
+      <path 
+     d="M -12,0 12,0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     />
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+	  <g id="svg_nmos">
+		  <path 
+		 d="M 0,48 16,48
+		 M 64,28 28,28
+		 M 64,68 28,68
+		 M 64,68 64,80
+		 M 64,28 64,16" 
+		 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+		   />
+		   <path 
+		 d="M 16,70 16,24
+		 M 28,81 28,15" 
+		 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+		   />
+		   <polygon points="47,59 47,77 60,68" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+		   <!-- Below is an invisible box so that the symbol stays on grid 
+		   when in inkscape -->
+		   <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+		   <!-- default text positions and size
+		 	"svg_nmos" WINDOW 0 70 48 Left 2
+		 	"svg_nmos" SYMATTR Prefix MN
+		   -->
+	  </g>
+	</defs>
+<defs>
+     <g id="svg_meas_I">
+     <path 
+     d="M 32,0 32,64
+     M 32,0 40,16
+     M 32,0 24,16"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     />      
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+<polyline points="112 288 112 272" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="208 288 112 288" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="112 320 112 288" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 352 32 352" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="112 416 112 384" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 448 32 448" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="112 496 112 480" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<use xlink:href="#svg_dot" x="112" y="288" transform = "rotate(0 112 288)" />
+<g 
+>
+<use xlink:href="#svg_nmos" x="48" y="400" transform = "rotate(0 48 400)" />
+</g>
+<text x="126" y="448" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">M<tspan dy="0.5em">1</tspan><tspan dx="0em" dy="-0.5em"> </tspan></tspan></text>
+<text x="56" y="400" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#svg_nmos" x="48" y="304" transform = "rotate(0 48 304)" />
+</g>
+<text x="126" y="352" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">M<tspan dy="0.5em">2</tspan><tspan dx="0em" dy="-0.5em"> </tspan></tspan></text>
+<text x="56" y="304" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#svg_meas_I" x="160" y="256" transform = "rotate(180 160 256)" />
+</g>
+<text x="152" y="256" style="white-space:pre;text-anchor:end;text-anchor:end;"><tspan dy="0.25em"></tspan></text>
+<use xlink:href="#svg_gnd" x="112" y="496" transform = "rotate(0 112 496)" />
+<use xlink:href="#svg_port" x="208" y="288" transform = "rotate(0 208 288)" />
+<text x="220" y="288" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">vo</tspan></text>
+<use xlink:href="#svg_port" x="32" y="448" transform = "rotate(0 32 448)" />
+<text x="20" y="448" style="white-space:pre;text-anchor:end;font-size:20px;"><tspan dy="0.25em">VB1</tspan></text>
+<use xlink:href="#svg_port" x="32" y="352" transform = "rotate(0 32 352)" />
+<text x="20" y="352" style="white-space:pre;text-anchor:end;font-size:20px;"><tspan dy="0.25em">VB2</tspan></text>
+<text x="160" y="216" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">\jl={I<tspan dy="0.5em">D</tspan><tspan dx="0em" dy="-0.5em"> </tspan>}</tspan></text>
+<polyline points="112 272 112 192" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:6 6;stroke-dashoffset:0;stroke-opacity:1" />
+</g>
+</svg>

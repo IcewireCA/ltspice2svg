@@ -1,0 +1,8 @@
+Running ltspice2svg (log file)
+Input: utf16_utf8_examples/utf16.asc
+output path: utf16_utf8_examples/
+current directory: /Users/davidjohns/Dropbox/Icewire/go/src/ltspice2svg/
+
+.asc file is UTF16 encoded which may cause problems
+file.svg written
+

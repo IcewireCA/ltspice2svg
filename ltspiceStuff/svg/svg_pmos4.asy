@@ -1,0 +1,30 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 16 82 16 12
+LINE Normal 0 48 16 48
+LINE Normal 23 87 23 7
+LINE Normal 64 72 23 72
+LINE Normal 64 24 32 24
+LINE Normal 32 19 32 29
+LINE Normal 23 24 32 19
+LINE Normal 32 29 23 24
+LINE Normal 64 48 23 48
+LINE Normal 64 80 64 72
+LINE Normal 64 24 64 16
+WINDOW 0 74 72 Left 2
+SYMATTR SpiceModel pmodel
+SYMATTR Prefix MP
+SYMATTR SpiceLine W=1E7 L=1E8
+SYMATTR Description PMOS (4 terminal)
+PIN 64 80 NONE 8
+PINATTR PinName D
+PINATTR SpiceOrder 1
+PIN 0 48 NONE 8
+PINATTR PinName G
+PINATTR SpiceOrder 2
+PIN 64 16 NONE 8
+PINATTR PinName S
+PINATTR SpiceOrder 3
+PIN 64 48 NONE 8
+PINATTR PinName B
+PINATTR SpiceOrder 4

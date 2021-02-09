@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with ltspice2svg: version = 0.8.2 (2020-02-05) -->
+<!-- Tested on LTspice XVII -->
+<svg
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	width = "928" height = "640"
+	viewBox="-1248 0 928 640"
+	version="1.1"
+	id="svg8"
+	inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+	sodipodi:docname="test.svg">
+	<defs
+		id="defs9" />
+	<sodipodi:namedview
+		 id="base"
+		 pagecolor="#ffffff"
+		 bordercolor="#666666"
+		 borderopacity="1.0"
+		 inkscape:pageopacity="0.0"
+		 inkscape:pageshadow="2"
+		 inkscape:zoom="1.0"
+		 inkscape:cx="1024"
+		 inkscape:cy="1024"
+		 inkscape:document-units="px"
+		 inkscape:current-layer="layer1"
+		 showgrid="true"
+		 inkscape:window-width="1024"
+		 inkscape:window-height="1024"
+		 inkscape:window-x="1024"
+		 inkscape:window-y="1024"
+		 inkscape:window-maximized="0"
+		 showguides="true"
+		 units="px"
+		 fit-margin-top="0"
+		 fit-margin-left="0"
+		 fit-margin-right="0"
+		 fit-margin-bottom="0"
+		 inkscape:snap-to-guides="false"
+		 inkscape:snap-grids="true"
+		 inkscape:snap-nodes="false"
+		 inkscape:object-nodes="true"
+		 inkscape:object-paths="false"
+		 inkscape:snap-bbox="true"
+		 inkscape:snap-bbox-midpoints="false"
+		 inkscape:bbox-nodes="true">
+	
+		<inkscape:grid
+		   type="xygrid"
+		   id="grid815"
+		   spacingx="16"
+		   spacingy="16"
+		   empspacing="1"
+		   dotted="true"
+		   units="px"
+		   originx="0"
+		   originy="0"
+		   enabled="true" />
+	  </sodipodi:namedview>
+	  <metadata
+		 id="metadata5">
+		<rdf:RDF>
+		  <cc:Work
+			 rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type
+			   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title />
+		  </cc:Work>
+		</rdf:RDF>
+	  </metadata>
+	
+<style>text {font-family:Arial;}</style>
+
+<defs>
+	<g id="svg_supply">
+      <polygon points="-6,0 0,-15 6,0" style="fill:black;fill-opacity:1;stroke:black;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_port">
+      <circle cx="0" cy="0" r="6" style="stroke:black; fill:black"/>
+      <circle cx="0" cy="0" r="3" style="stroke:white; fill:white"/>
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_dot">
+      <circle cx="0" cy="0" r="5" style="stroke:#000000; fill:#000000"/>
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+     <g id="svg_gnd">
+      <path 
+     d="M 0,0 0,8
+     M -14,8 14,8
+     M -8,14 8,14
+     M -2,20 2,20"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     />
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_jumpCirc">
+      <circle cx="0" cy="0" r="6" style="stroke:#000000;stroke-width:2.5;fill:#ffffff"/>
+      <rect x="-8" y="1.25" width="16" height="7" style="fill:#ffffff;stroke:none"/>
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_jumpLine">
+      <path 
+     d="M -12,0 12,0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     />
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+	  <g id="svg_pmos">
+		  <path 
+		 d="M 0,48 16,48
+		 M 64,28 28,28
+		 M 64,68 28,68
+		 M 64,68 64,80
+		 M 64,28 64,16" 
+		 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+		   />
+		   <path 
+		 d="M 16,70 16,24
+		 M 28,81 28,15" 
+		 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+		   />
+		   <polygon points="45,19 45,37 32,28" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+		   <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+		   <!-- default text positions and size
+		 	"svg_pmos" WINDOW 0 70 48 Left 2
+		 	"svg_pmos" SYMATTR Prefix MP
+		   -->
+	  </g>
+	</defs>
+<defs>
+	  <g id="svg_nmos">
+		  <path 
+		 d="M 0,48 16,48
+		 M 64,28 28,28
+		 M 64,68 28,68
+		 M 64,68 64,80
+		 M 64,28 64,16" 
+		 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+		   />
+		   <path 
+		 d="M 16,70 16,24
+		 M 28,81 28,15" 
+		 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+		   />
+		   <polygon points="47,59 47,77 60,68" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+		   <!-- Below is an invisible box so that the symbol stays on grid 
+		   when in inkscape -->
+		   <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+		   <!-- default text positions and size
+		 	"svg_nmos" WINDOW 0 70 48 Left 2
+		 	"svg_nmos" SYMATTR Prefix MN
+		   -->
+	  </g>
+	</defs>
+<defs>
+	  <g id="svg_res">
+		  <path 
+		 d="M 16,0 32,5
+		 M 32,5 0,16
+		 M 0,16 32,27
+		 M 32,27 0,37
+		 M 0,37 32,48
+		 M 32,48 0,59
+		 M 0,59 16,64"
+		 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+		 />
+		 <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+		 <!-- default text positions and size 
+		 	"svg_res" WINDOW 0 40 18 Left 2 
+			"svg_res" WINDOW 3 40 46 Left 2
+			"svg_res" SYMATTR Value R
+			"svg_res" SYMATTR Prefix R
+		-->
+	  </g>
+</defs>
+<defs>
+	<g id="svg_current">
+	<circle cx="0" cy="32" r="24" style="stroke:black; stroke-width:4;fill:white"/>
+	<path 
+	d="
+	M 0,48 4,36
+	M 0,48 -4,36
+	M -4,36 4,36
+	M 0,16 0,36
+	M 0,64 0,56
+	M 0,0 0,8
+	"
+	style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+	/>
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	<!-- default text positions and size 
+		"svg_current" WINDOW 0 -36 20 Right 2
+		"svg_current" WINDOW 3 -36 44 Right 2
+		"svg_current" SYMATTR Value I
+		"svg_current" SYMATTR Prefix I
+	-->
+	</g>
+</defs>
+
+<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+<polyline points="-1008 128 -1008 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-800 128 -800 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-912 160 -944 160" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-864 160 -912 160" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-800 208 -800 192" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-656 208 -800 208" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-624 208 -656 208" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-1008 224 -1008 192" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-912 224 -912 160" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-912 224 -1008 224" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-800 224 -800 208" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-1008 288 -1008 224" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-800 304 -800 288" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-1072 320 -1104 320" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-1008 400 -1008 352" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-928 400 -1008 400" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-816 400 -864 400" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-768 400 -816 400" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-656 400 -656 208" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-656 400 -704 400" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-1008 432 -1008 400" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-816 432 -816 400" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-1008 512 -1008 496" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-816 512 -816 496" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<use xlink:href="#svg_dot" x="-912" y="160" transform = "rotate(0 -912 160)" />
+<use xlink:href="#svg_dot" x="-800" y="208" transform = "rotate(0 -800 208)" />
+<use xlink:href="#svg_dot" x="-656" y="208" transform = "rotate(0 -656 208)" />
+<use xlink:href="#svg_dot" x="-1008" y="224" transform = "rotate(0 -1008 224)" />
+<use xlink:href="#svg_dot" x="-1008" y="400" transform = "rotate(0 -1008 400)" />
+<use xlink:href="#svg_dot" x="-816" y="400" transform = "rotate(0 -816 400)" />
+<g 
+>
+<use xlink:href="#svg_pmos" x="-864" y="112" transform = "rotate(0 -864 112)" />
+</g>
+<text x="-856" y="112" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#svg_nmos" x="-1072" y="272" transform = "rotate(0 -1072 272)" />
+</g>
+<text x="-990" y="319" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">M1</tspan></text>
+<text x="-1064" y="272" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<g 
+transform = "scale(-1 1) translate(944 0) translate(944 0)" >
+<use xlink:href="#svg_pmos" x="-944" y="112" transform = "rotate(0 -944 112)" />
+</g>
+<text x="-1024" y="161" style="white-space:pre;text-anchor:end;font-size:20px;"><tspan dy="0.25em">M2</tspan></text>
+<text x="-952" y="112" style="white-space:pre;text-anchor:end;text-anchor:end;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#svg_res" x="-1024" y="432" transform = "rotate(0 -1024 432)" />
+</g>
+<text x="-973" y="457" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">RS</tspan></text>
+<text x="-972" y="486" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">\mbox{$\mbox{$10 \units{k \Omega}$}$}</tspan></text>
+<g 
+>
+<use xlink:href="#svg_res" x="-928" y="416" transform = "rotate(270 -928 416)" />
+</g>
+<text x="-896" y="376" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.0em">R1</tspan></text>
+<text x="-896" y="424" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.75em">\mbox{$\mbox{$10 \units{k \Omega}$}$}</tspan></text>
+<g 
+>
+<use xlink:href="#svg_current" x="-800" y="224" transform = "rotate(0 -800 224)" />
+</g>
+<text x="-757" y="243" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">I1</tspan></text>
+<g 
+>
+<use xlink:href="#svg_res" x="-768" y="416" transform = "rotate(270 -768 416)" />
+</g>
+<text x="-736" y="376" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.0em">R2</tspan></text>
+<text x="-736" y="424" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.75em">\mbox{$\mbox{$10 \units{k \Omega}$}$}</tspan></text>
+<g 
+>
+<use xlink:href="#svg_res" x="-832" y="432" transform = "rotate(0 -832 432)" />
+</g>
+<text x="-783" y="459" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">R3</tspan></text>
+<text x="-783" y="486" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">\mbox{$\mbox{$10 \units{k \Omega}$}$}</tspan></text>
+<use xlink:href="#svg_supply" x="-800" y="96" transform = "rotate(0 -800 96)" />
+<text x="-800" y="73" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.0em">Vdd</tspan></text>
+<use xlink:href="#svg_supply" x="-1008" y="96" transform = "rotate(0 -1008 96)" />
+<text x="-1008" y="73" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.0em">Vdd</tspan></text>
+<use xlink:href="#svg_gnd" x="-800" y="304" transform = "rotate(0 -800 304)" />
+<use xlink:href="#svg_port" x="-624" y="208" transform = "rotate(0 -624 208)" />
+<text x="-612" y="208" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">vo</tspan></text>
+<use xlink:href="#svg_port" x="-1104" y="320" transform = "rotate(0 -1104 320)" />
+<text x="-1116" y="320" style="white-space:pre;text-anchor:end;font-size:20px;"><tspan dy="0.25em">vi</tspan></text>
+<use xlink:href="#svg_gnd" x="-816" y="512" transform = "rotate(0 -816 512)" />
+<use xlink:href="#svg_gnd" x="-1008" y="512" transform = "rotate(0 -1008 512)" />
+<text x="-496" y="136" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">all $r_o \rightarrow \infty$</tspan></text>
+<text x="-488" y="168" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">\mbox{$g_{m1} = \mbox{$0.1 \units{ m A/V}$}$}</tspan></text>
+<text x="-488" y="200" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">\mbox{$g_{m2} = \mbox{$0.1 \units{ m A/V}$}$}</tspan></text>
+<text x="-488" y="232" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">\mbox{$g_{m3} = \mbox{$5 \units{ m A/V}$}$}</tspan></text>
+<text x="-472" y="320" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">some words here</tspan></text>
+</g>
+</svg>

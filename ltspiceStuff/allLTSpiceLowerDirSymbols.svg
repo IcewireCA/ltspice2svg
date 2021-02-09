@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with icemaker: version = 0.7.5 (2020-08-05) -->
+
+<svg
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	width = "1920" height = "960"
+	viewBox="-736 -544 1920 960"
+	version="1.1"
+	id="svg8"
+	inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+	sodipodi:docname="test.svg">
+	<defs
+		id="defs9" />
+	<sodipodi:namedview
+		 id="base"
+		 pagecolor="#ffffff"
+		 bordercolor="#666666"
+		 borderopacity="1.0"
+		 inkscape:pageopacity="0.0"
+		 inkscape:pageshadow="2"
+		 inkscape:zoom="1.0"
+		 inkscape:cx="1024"
+		 inkscape:cy="1024"
+		 inkscape:document-units="px"
+		 inkscape:current-layer="layer1"
+		 showgrid="true"
+		 inkscape:window-width="1024"
+		 inkscape:window-height="1024"
+		 inkscape:window-x="1024"
+		 inkscape:window-y="1024"
+		 inkscape:window-maximized="0"
+		 showguides="true"
+		 units="px"
+		 fit-margin-top="0"
+		 fit-margin-left="0"
+		 fit-margin-right="0"
+		 fit-margin-bottom="0"
+		 inkscape:snap-to-guides="false"
+		 inkscape:snap-grids="true"
+		 inkscape:snap-nodes="false"
+		 inkscape:object-nodes="true"
+		 inkscape:object-paths="false"
+		 inkscape:snap-bbox="true"
+		 inkscape:snap-bbox-midpoints="false"
+		 inkscape:bbox-nodes="true">
+	
+		<inkscape:grid
+		   type="xygrid"
+		   id="grid815"
+		   spacingx="16"
+		   spacingy="16"
+		   empspacing="1"
+		   dotted="true"
+		   units="px"
+		   originx="0"
+		   originy="0"
+		   enabled="true" />
+	  </sodipodi:namedview>
+	  <metadata
+		 id="metadata5">
+		<rdf:RDF>
+		  <cc:Work
+			 rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type
+			   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title />
+		  </cc:Work>
+		</rdf:RDF>
+	  </metadata>
+	
+<defs>
+	<g id="svg_supply">
+      <polygon points="-6,0 0,-15 6,0" style="fill:black;fill-opacity:1;stroke:black;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_port">
+      <circle cx="0" cy="0" r="6" style="stroke:black; fill:black"/>
+      <circle cx="0" cy="0" r="3" style="stroke:white; fill:white"/>
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_dot">
+      <circle cx="0" cy="0" r="5" style="stroke:#000000; fill:#000000"/>
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+     <g id="svg_gnd">
+      <path 
+     d="M 0,0 0,8
+     M -14,8 14,8
+     M -8,14 8,14
+     M -2,20 2,20"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     />
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_jumpCirc">
+      <circle cx="0" cy="0" r="6" style="stroke:#000000;stroke-width:2.5;fill:#ffffff"/>
+      <rect x="-8" y="1.25" width="16" height="7" style="fill:#ffffff;stroke:none"/>
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+    <g id="svg_jumpLine">
+      <path 
+     d="M -12,0 12,0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     />
+     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+     </g>
+</defs>
+<defs>
+<g id="and">
+<polyline points="-32 32 -12 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 96 -12 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 96 -32 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 48 32 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="24" cy="80" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M -12.00 96.00 A 32.00 32.00 0 0 0 -12.00 32.00" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"and" WINDOW 0 16 24 Left 2
+"and" WINDOW 3 16 112 Left 2
+"and" SYMATTR Prefix A
+"and" SYMATTR SpiceModel AND
+"and" SYMATTR Description Behavioral AND gate
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="buf">
+<polyline points="0 32 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 48 64 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 0 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="64 80 60 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="52" cy="80" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"buf" WINDOW 0 8 16 Left 2
+"buf" WINDOW 3 8 120 Left 2
+"buf" SYMATTR Prefix A
+"buf" SYMATTR SpiceModel BUF
+"buf" SYMATTR Description Behavioral buffer with complementary outputs
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="buf1">
+<polyline points="0 48 40 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 80 40 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 80 0 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="40 64 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"buf1" WINDOW 0 8 32 Left 2
+"buf1" WINDOW 3 8 104 Left 2
+"buf1" SYMATTR Prefix A
+"buf1" SYMATTR SpiceModel BUF
+"buf1" SYMATTR Description Behavioral buffer
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="counter">
+<polyline points="-80 24 -72 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 40 -72 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 -64 144 -64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 -64 -80 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 128 144 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="144 128 144 -64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"counter" WINDOW 0 -64 -80 Left 2
+"counter" WINDOW 3 -64 152 Left 2
+"counter" SYMATTR Prefix A
+"counter" SYMATTR SpiceModel COUNTER
+"counter" SYMATTR Description Behavioral counter
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="dflop">
+<polyline points="-80 0 80 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 0 -80 144" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 144 80 144" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="80 144 80 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 88 -72 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 104 -72 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="88" cy="96" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"dflop" WINDOW 0 8 -16 Left 2
+"dflop" WINDOW 3 8 168 Left 2
+"dflop" SYMATTR Prefix A
+"dflop" SYMATTR SpiceModel DFLOP
+"dflop" SYMATTR Description Behavioral D-flipflop
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="diffschmitt">
+<polyline points="8 72 16 72" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 56 20 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 72 12 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 72 16 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 32 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 48 64 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 0 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="64 80 60 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 48 12 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 44 8 52" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 80 12 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="52" cy="80" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"diffschmitt" WINDOW 0 8 16 Left 2
+"diffschmitt" WINDOW 3 8 120 Left 2
+"diffschmitt" SYMATTR Prefix A
+"diffschmitt" SYMATTR SpiceModel SCHMITT
+"diffschmitt" SYMATTR Description Behavioral Schmitt-Triggered Buffer with Complementary Outs and Differential Input
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="diffschmtbuf">
+<polyline points="8 72 16 72" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 56 20 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 72 12 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 72 16 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 32 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 0 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 48 12 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 44 8 52" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 80 12 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"diffschmtbuf" WINDOW 0 8 16 Left 2
+"diffschmtbuf" WINDOW 3 8 120 Left 2
+"diffschmtbuf" SYMATTR Prefix A
+"diffschmtbuf" SYMATTR SpiceModel SCHMITT
+"diffschmtbuf" SYMATTR Description Behavioral Schmitt-Triggered Buffer with Differential Input
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="diffschmtinv">
+<polyline points="8 72 16 72" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 56 20 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 72 12 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 72 16 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 32 44 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 44 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="60 64 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 0 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 48 12 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 44 8 52" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 80 12 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="52" cy="64" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"diffschmtinv" WINDOW 0 8 16 Left 2
+"diffschmtinv" WINDOW 3 8 120 Left 2
+"diffschmtinv" SYMATTR Prefix A
+"diffschmtinv" SYMATTR SpiceModel SCHMITT
+"diffschmtinv" SYMATTR Description Behavioral Schmitt-Triggered Inverter with Differential Input
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="inv">
+<polyline points="0 48 40 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 80 40 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 80 0 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="56 64 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="48" cy="64" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"inv" WINDOW 0 8 32 Left 2
+"inv" WINDOW 3 8 104 Left 2
+"inv" SYMATTR Prefix A
+"inv" SYMATTR SpiceModel BUF
+"inv" SYMATTR Description Behavioral Inverter
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="or">
+<polyline points="-32 32 -28 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 96 -28 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 48 32 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 80 -24 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 64 -20 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 48 -24 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="24" cy="80" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M -30.71 96.94 A 56.00 56.00 0 0 0 -30.71 31.06" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M -28.00 95.96 A 54.00 54.00 0 0 0 23.43 63.75" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M 23.43 64.25 A 54.00 54.00 0 0 0 -28.00 32.04" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"or" WINDOW 0 -8 8 Left 2
+"or" WINDOW 3 -8 128 Left 2
+"or" SYMATTR Prefix A
+"or" SYMATTR SpiceModel OR
+"or" SYMATTR Description Behavioral OR gate with complementary outputs
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="phidet">
+<polyline points="-32 -24 -24 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 -8 -24 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 24 -24 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 8 -24 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 -48 -32 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 -48 32 -48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 48 32 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 48 64 12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 -48 64 -12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 -16 28 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 16 28 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="12" cy="0" rx="24" ry="24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="68" cy="0" rx="12" ry="12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="84" cy="0" rx="12" ry="12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"phidet" WINDOW 0 8 -64 Center 2
+"phidet" WINDOW 3 0 64 Left 2
+"phidet" SYMATTR Prefix A
+"phidet" SYMATTR SpiceModel PHASEDET
+"phidet" SYMATTR Description Behavioral Type 3/4 Phase Detector (phase/frequency detector).  NOTE: Limit input rise times
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="schmitt">
+<polyline points="8 72 16 72" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 56 20 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 72 12 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 72 16 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 32 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 48 64 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 0 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="64 80 60 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="52" cy="80" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"schmitt" WINDOW 0 8 16 Left 2
+"schmitt" WINDOW 3 8 120 Left 2
+"schmitt" SYMATTR Prefix A
+"schmitt" SYMATTR SpiceModel SCHMITT
+"schmitt" SYMATTR Description Behavioral Schmitt-Triggered buffer with complementary outs
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="schmtbuf">
+<polyline points="4 68 12 68" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 60 16 60" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 60 8 68" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 68 12 60" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 48 40 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 80 40 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 80 0 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="40 64 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"schmtbuf" WINDOW 0 8 32 Left 2
+"schmtbuf" WINDOW 3 8 104 Left 2
+"schmtbuf" SYMATTR Prefix A
+"schmtbuf" SYMATTR SpiceModel SCHMITT
+"schmtbuf" SYMATTR Description Behavioral Schmitt-Triggered buffer
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="schmtinv">
+<polyline points="4 68 12 68" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 60 16 60" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 60 8 68" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 68 12 60" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 48 40 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 80 40 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 80 0 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="56 64 64 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="48" cy="64" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"schmtinv" WINDOW 0 8 32 Left 2
+"schmtinv" WINDOW 3 8 104 Left 2
+"schmtinv" SYMATTR Prefix A
+"schmtinv" SYMATTR SpiceModel SCHMITT
+"schmtinv" SYMATTR Description Behavioral Schmitt-Triggered inverter
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="srflop">
+<polyline points="-48 16 48 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-48 16 -48 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-48 128 48 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 128 48 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="56" cy="96" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"srflop" WINDOW 0 -40 0 Left 2
+"srflop" WINDOW 3 -40 152 Left 2
+"srflop" SYMATTR Prefix A
+"srflop" SYMATTR SpiceModel SRFLOP
+"srflop" SYMATTR Description Behavioral Set-Reset Flipflop
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="xor">
+<polyline points="-36 96 -28 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-36 32 -28 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 48 16 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-48 80 -40 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-48 64 -36 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-48 48 -40 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="24" cy="80" rx="8" ry="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M -46.71 96.94 A 56.00 56.00 0 0 0 -46.71 31.06" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M -34.71 96.94 A 56.00 56.00 0 0 0 -34.71 31.06" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M -28.00 95.96 A 54.00 54.00 0 0 0 23.43 63.75" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M 23.43 64.25 A 54.00 54.00 0 0 0 -28.00 32.04" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"xor" WINDOW 0 16 24 Left 2
+"xor" WINDOW 3 16 112 Left 2
+"xor" SYMATTR Prefix A
+"xor" SYMATTR SpiceModel XOR
+"xor" SYMATTR Description Behavioral XOR gate
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="battery">
+<polyline points="-32 36 32 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 60 32 60" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 0 76" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 16 0 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 24 -12 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-16 20 -16 28" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<rect x="-16" y="44" width="32" height="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<rect x="-16" y="68" width="32" height="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"battery" WINDOW 0 24 16 Left 2
+"battery" WINDOW 3 24 104 Left 2
+"battery" SYMATTR Value V
+"battery" SYMATTR Prefix V
+"battery" SYMATTR Description Voltage Source, either DC, AC, PULSE, SINE, PWL, EXP, or SFFM
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="cell">
+<polyline points="0 40 0 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 24 32 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 0 0 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 12 -12 12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-16 8 -16 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<rect x="-16" y="32" width="32" height="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"cell" WINDOW 0 24 8 Left 2
+"cell" WINDOW 3 24 56 Left 2
+"cell" SYMATTR Value V
+"cell" SYMATTR Prefix V
+"cell" SYMATTR Description Voltage Source, either DC, AC, PULSE, SINE, PWL, EXP, or SFFM
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="DIAC">
+<polyline points="0 44 36 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 20 36 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="36 20 20 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 20 20 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 0 32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 44 32 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="28 44 64 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="28 44 44 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="44 20 60 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="36 20 64 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"DIAC" WINDOW 0 48 0 Left 2
+"DIAC" WINDOW 3 48 72 Left 2
+"DIAC" SYMATTR Value DIAC
+"DIAC" SYMATTR Prefix X
+"DIAC" SYMATTR Description Generic Bi-directional Trigger Device symbol for use with a model that you supply
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="Epoly">
+<polyline points="0 16 0 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 0 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 72 4 72" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 40 4 40" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 36 0 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="0" cy="56" rx="32" ry="32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"Epoly" WINDOW 0 24 16 Left 2
+"Epoly" WINDOW 3 24 104 Left 2
+"Epoly" SYMATTR Value POLY()
+"Epoly" SYMATTR Prefix E
+"Epoly" SYMATTR Description Voltage dependent voltage source with two terminals.  Useful for drafting schematic generating archaic voltage controlled syntax.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="EuropeanCap">
+<polyline points="16 44 16 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 0 16 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<rect x="0" y="36" width="32" height="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<rect x="0" y="20" width="32" height="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"EuropeanCap" WINDOW 0 24 4 Left 2
+"EuropeanCap" WINDOW 3 24 64 Left 2
+"EuropeanCap" SYMATTR Value C
+"EuropeanCap" SYMATTR Prefix C
+"EuropeanCap" SYMATTR Description Polarized Capacitor
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="EuropeanPolcap">
+<polyline points="16 44 16 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 0 16 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 28 32 28" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 20 32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 28 32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 28 0 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 37 0 37" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 38 0 38" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 39 0 39" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 40 0 40" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 41 0 41" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 42 0 42" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 43 0 43" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<rect x="0" y="36" width="32" height="8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"EuropeanPolcap" WINDOW 0 24 4 Left 2
+"EuropeanPolcap" WINDOW 3 24 64 Left 2
+"EuropeanPolcap" SYMATTR Value C
+"EuropeanPolcap" SYMATTR Prefix C
+"EuropeanPolcap" SYMATTR Description Polarized Capacitor
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="EuropeanResistor">
+<polyline points="16 88 16 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 16 16 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="27 24 5 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="5 88 5 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="5 88 27 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="27 24 27 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"EuropeanResistor" WINDOW 0 31 40 Left 2
+"EuropeanResistor" WINDOW 3 31 76 Left 2
+"EuropeanResistor" SYMATTR Value R
+"EuropeanResistor" SYMATTR Prefix R
+"EuropeanResistor" SYMATTR Description A Resistor(European style graphic)
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="fixedind">
+<path d=" M 4.69 67.31 A 16.00 16.00 0 1 0 4.69 44.69" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M 16.00 96.00 A 16.00 16.00 0 1 0 4.69 68.69" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M 4.69 43.31 A 16.00 16.00 0 1 0 16.00 16.00" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"fixedind" WINDOW 0 36 40 Left 2
+"fixedind" WINDOW 3 36 80 Left 2
+"fixedind" SYMATTR Value L
+"fixedind" SYMATTR Prefix L
+"fixedind" SYMATTR Description An inductor that cannot be edited.  Typically used with the 1533/1534
+"fixedind" SYMATTR Def_Sub noedit
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="Gpoly">
+<polyline points="0 16 0 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 0 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 52 0 40" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 52 0 40" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 52 4 52" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 52 0 72" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="0" cy="56" rx="32" ry="32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"Gpoly" WINDOW 0 24 16 Left 2
+"Gpoly" WINDOW 3 24 104 Left 2
+"Gpoly" SYMATTR Value POLY()
+"Gpoly" SYMATTR Prefix G
+"Gpoly" SYMATTR Description Voltage dependent current source with two terminals.  Useful for drafting schematic generating archaic voltage controlled syntax.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="jumper">
+<polyline points="24 64 32 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 64 -32 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="-20" cy="64" rx="4" ry="4" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="20" cy="64" rx="4" ry="4" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M 19.61 60.08 A 20.00 20.00 0 0 0 -19.61 60.08" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"jumper" WINDOW 0 0 40 Bottom 2
+"jumper" SYMATTR Prefix J
+"jumper" SYMATTR Description A wire jumper.  This component lets you give the same net two different names
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="neonbulb">
+<polyline points="0 -48 0 -21" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 48 0 21" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="20 8 12 8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 12 16 4" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="19 11 13 5" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="13 11 19 5" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="0" cy="0" rx="32" ry="32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="0" cy="-16" rx="5" ry="5" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="0" cy="16" rx="5" ry="5" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="16" cy="8" rx="1" ry="1" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="16" cy="8" rx="2" ry="2" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="16" cy="8" rx="3" ry="3" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="16" cy="8" rx="4" ry="4" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"neonbulb" WINDOW 0 16 -48 Left 2
+"neonbulb" SYMATTR Prefix X
+"neonbulb" SYMATTR Description Parameterized Neon Bulb
+"neonbulb" SYMATTR Value2 Vstrike=100 Vhold=50
+"neonbulb" SYMATTR ModelFile neonbulb.sub
+"neonbulb" SYMATTR SpiceModel neonbulb
+"neonbulb" SYMATTR SpiceLine Zon=2K Ihold=200u
+"neonbulb" SYMATTR SpiceLine2 Tau=100u
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="NIGBT">
+<polyline points="16 80 32 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 96 28 92" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 96 32 84" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="28 92 32 84" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 48 40 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 8 16 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 40 16 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 72 16 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 80 8 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 16 8 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 0 32 8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 16 36 12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 16 32 4" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="36 12 32 4" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"NIGBT" WINDOW 0 56 32 Left 2
+"NIGBT" WINDOW 3 56 72 Left 2
+"NIGBT" SYMATTR Value NIGBT
+"NIGBT" SYMATTR Prefix Z
+"NIGBT" SYMATTR Description N-Channel IGBT symbol for a model you supply.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="pentode">
+<polyline points="-48 -16 -48 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 -16 48 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 -64 0 -32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 -32 20 -32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 -28 20 -28" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 -32 -20 -28" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="20 -32 20 -28" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="20 -16 12 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 -16 -4 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-12 -16 -20 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 -16 -48 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 0 28 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="20 0 12 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 0 -4 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-12 0 -20 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-48 16 -28 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 16 -12 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 16 4 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 16 20 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 28 24 28" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 64 -32 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 28 -32 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="24 28 32 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 32 28 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M 48.00 -16.00 A 48.00 48.00 0 0 0 -48.00 -16.00" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M -48.00 16.00 A 48.00 48.00 0 0 0 48.00 16.00" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"pentode" WINDOW 0 8 -80 Left 2
+"pentode" WINDOW 3 -24 80 Left 2
+"pentode" SYMATTR Value Pentrode
+"pentode" SYMATTR Prefix X
+"pentode" SYMATTR Description This symbol is for use with a subcircuit macromodel that you supply.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="PIGBT">
+<polyline points="16 80 36 84" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 80 32 92" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="36 84 32 92" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 96 32 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 48 40 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 8 16 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 40 16 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 72 16 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 80 8 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 16 8 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 16 32 8" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="28 4 48 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 12 48 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 12 28 4" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"PIGBT" WINDOW 0 56 32 Left 2
+"PIGBT" WINDOW 3 56 72 Left 2
+"PIGBT" SYMATTR Value PIGBT
+"PIGBT" SYMATTR Prefix Z
+"PIGBT" SYMATTR Description P-Channel IGBT symbol for a model you supply.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="SCR">
+<polyline points="0 44 32 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 20 32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 20 16 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 20 16 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 0 16 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 44 16 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-12 64 -32 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-12 64 8 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"SCR" WINDOW 0 24 0 Left 2
+"SCR" WINDOW 3 24 72 Left 2
+"SCR" SYMATTR Value SCR
+"SCR" SYMATTR Prefix X
+"SCR" SYMATTR Description Generic SCR symbol for use with a model that you supply.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="signal">
+<polyline points="-4 32 4 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 80 4 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 28 0 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 0 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 16 0 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="0" cy="56" rx="32" ry="32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M 0.00 56.00 A 12.00 12.00 0 0 0 24.00 56.00" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M 0.00 56.00 A 12.00 12.00 0 0 0 -24.00 56.00" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"signal" WINDOW 0 24 16 Left 2
+"signal" WINDOW 3 24 104 Left 2
+"signal" SYMATTR Value SINE(0 1 1K)
+"signal" SYMATTR Prefix V
+"signal" SYMATTR Description Voltage Source, either DC, AC, PULSE, SINE, PWL, EXP, or SFFM
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="tetrode">
+<polyline points="-48 0 -48 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 0 48 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 -48 0 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 -16 20 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 -12 20 -12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 -16 -20 -12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="20 -16 20 -12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="48 0 28 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="20 0 12 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 0 -4 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-12 0 -20 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 0 -36 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-48 16 -28 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 16 -12 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 16 4 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 16 20 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="28 16 36 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 28 24 28" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 64 -32 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 28 -32 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="24 28 32 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 32 28 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M 48.00 0.00 A 48.00 48.00 0 0 0 -48.00 -0.00" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<path d=" M -48.00 16.00 A 48.00 48.00 0 0 0 48.00 16.00" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"tetrode" WINDOW 0 8 -64 Left 2
+"tetrode" WINDOW 3 -24 80 Left 2
+"tetrode" SYMATTR Value Tetrode
+"tetrode" SYMATTR Prefix X
+"tetrode" SYMATTR Description This symbol is for use with a subcircuit macromodel that you supply.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="TRIAC">
+<polyline points="0 44 36 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 20 36 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="36 20 20 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 20 20 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 0 32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 44 32 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="28 44 64 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="28 44 44 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="44 20 60 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="36 20 64 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 64 -16 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 64 20 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"TRIAC" WINDOW 0 48 0 Left 2
+"TRIAC" WINDOW 3 48 72 Left 2
+"TRIAC" SYMATTR Value TRIAC
+"TRIAC" SYMATTR Prefix X
+"TRIAC" SYMATTR Description Generic TRIAC symbol for use with a model that you supply.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="triode">
+<polyline points="-48 0 -28 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 0 -12 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 0 4 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="12 0 20 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="28 0 36 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 -48 0 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 -16 20 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 -12 20 -12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 -16 -20 -12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="20 -16 20 -12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 12 24 12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 48 -32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 12 -32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="24 12 32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 16 28 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<ellipse cx="0" cy="0" rx="48" ry="48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"triode" WINDOW 0 8 -64 Left 2
+"triode" WINDOW 3 -24 64 Left 2
+"triode" SYMATTR Value Triode
+"triode" SYMATTR Prefix X
+"triode" SYMATTR Description This symbol is for use with a subcircuit macromodel that you supply.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="urc">
+<polyline points="0 72 16 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 56 0 72" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 40 32 56" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 24 0 40" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 16 32 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-8 16 -8 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-8 48 -16 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"urc" WINDOW 0 36 32 Left 2
+"urc" WINDOW 3 36 72 Left 2
+"urc" SYMATTR Value URC
+"urc" SYMATTR Prefix U
+"urc" SYMATTR Description Uniform RC-line.  Intended for interconnection on IC's but rarely used.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="urc2">
+<polyline points="16 0 32 4" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 12 32 4" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 12 32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 28 32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 28 32 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 44 32 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 44 32 52" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 60 32 52" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 60 16 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-16 32 -8 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-8 4 -8 60" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"urc2" WINDOW 0 36 16 Left 2
+"urc2" WINDOW 3 36 56 Left 2
+"urc2" SYMATTR Value URC
+"urc2" SYMATTR Prefix U
+"urc2" SYMATTR Description Uniform RC-line.  Intended for interconnection on IC's but rarely used.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="xtal">
+<polyline points="16 44 16 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 20 16 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 20 32 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 44 32 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 36 24 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="24 36 24 28" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="24 28 8 28" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 28 8 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"xtal" WINDOW 0 24 0 Left 2
+"xtal" WINDOW 3 24 72 Left 2
+"xtal" SYMATTR Value C
+"xtal" SYMATTR Prefix C
+"xtal" SYMATTR Description Piezoelectric crystal.  Set C, Lser and Cpar to set series and parallel resonances.  This is actually the same as a capacitor.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="xvaristor">
+<polyline points="16 80 16 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 32 8 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="24 32 8 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="16 16 16 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 16 0 24" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 24 32 84" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="32 92 32 84" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="24 80 24 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 80 24 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"xvaristor" WINDOW 0 36 40 Left 2
+"xvaristor" WINDOW 3 36 76 Left 2
+"xvaristor" SYMATTR Value varistor
+"xvaristor" SYMATTR Prefix X
+"xvaristor" SYMATTR Description Generic varistor symbol for use with a model that you supply.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="UniversalOpamp2">
+<polyline points="-32 -32 32 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 32 32 0" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 -32 -32 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 -16 -20 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 16 -20 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 20 -24 12" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 -32 0 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 32 0 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 -20 12 -20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 -24 8 -16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 20 12 20" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"UniversalOpamp2" WINDOW 0 16 -32 Left 2
+"UniversalOpamp2" SYMATTR SpiceModel level.2
+"UniversalOpamp2" SYMATTR Prefix X
+"UniversalOpamp2" SYMATTR Description Universal Opamp model that allows 4 different levels of simulation accuracy.  See ./examples/Educational/UniversalOpamp2.asc for details.  En and in are equivalent voltage and current noises.  Enk and ink are the respective corner frequencies.  Phimargin is used to set the 2nd pole or delay to the approximate phase margin for level.3a and level.3b.  This version uses the new, experimental level 2 switch as the output devices.
+"UniversalOpamp2" SYMATTR Value2 Avol=1Meg GBW=10Meg Slew=10Meg
+"UniversalOpamp2" SYMATTR SpiceLine ilimit=25m rail=0 Vos=0 phimargin=45
+"UniversalOpamp2" SYMATTR SpiceLine2 en=0 enk=0 in=0 ink=0 Rin=500Meg
+"UniversalOpamp2" SYMATTR ModelFile UniversalOpamps2.sub
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="opamp">
+<polyline points="-32 32 32 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 96 32 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 32 -32 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 48 -20 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 80 -20 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 84 -24 76" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"opamp" WINDOW 0 0 32 Left 2
+"opamp" SYMATTR Prefix X
+"opamp" SYMATTR Description Ideal single-pole operational amplifier. You must .lib opamp.sub
+"opamp" SYMATTR Value opamp
+"opamp" SYMATTR SpiceLine Aol=100K
+"opamp" SYMATTR SpiceLine2 GBW=10Meg
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="opamp2">
+<polyline points="-32 32 32 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 96 32 64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 32 -32 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 48 -20 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 80 -20 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 84 -24 76" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 32 0 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="0 96 0 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 44 12 44" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="8 40 8 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="4 84 12 84" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"opamp2" WINDOW 0 16 32 Left 2
+"opamp2" WINDOW 3 16 96 Left 2
+"opamp2" SYMATTR Value opamp2
+"opamp2" SYMATTR Prefix X
+"opamp2" SYMATTR Description Basic Operational Amplifier symbol for use with subcircuits in the file ./lib/sub/LTC.lib.  You must give the value a name and include this file.
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="varistor">
+<polyline points="-16 96 -16 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-16 32 -16 40" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 96 -4 92" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-28 36 -28 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-4 92 -28 36" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 80 -24 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-32 48 -24 48" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 88 -8 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-8 40 -8 88" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-8 40 -24 40" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-24 88 -24 40" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-20 80 -12 80" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-16 76 -16 84" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"varistor" WINDOW 0 0 32 Left 2
+"varistor" WINDOW 3 0 104 Left 2
+"varistor" SYMATTR Prefix A
+"varistor" SYMATTR SpiceModel VARISTOR
+"varistor" SYMATTR Description Voltage controlled varistor
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs><defs>
+<g id="sample">
+<polyline points="-80 -64 80 -64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 -64 -80 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 96 80 96" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="80 96 96 16" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="96 16 80 -64" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 40 -72 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-80 24 -72 32" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:0;stroke-dashoffset:0;stroke-opacity:1" />
+<!-- default text positions and size
+"sample" WINDOW 0 -64 -80 Left 2
+"sample" WINDOW 3 -64 120 Left 2
+"sample" SYMATTR Prefix A
+"sample" SYMATTR SpiceModel SAMPLEHOLD
+"sample" SYMATTR Description Behavioral Sample and Hold function block
+-->
+<!-- invisible rect added to keep on grid in Inkscape -->
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	</g>
+	</defs>
+<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+<g 
+>
+<use xlink:href="#and" x="-560" y="-464" transform = "rotate(0 -560 -464)" />
+</g>
+<text x="-536" y="-440" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A1</tspan></text>
+<text x="-536" y="-352" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#buf" x="-464" y="-464" transform = "rotate(0 -464 -464)" />
+</g>
+<text x="-448" y="-448" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A2</tspan></text>
+<text x="-448" y="-344" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#buf1" x="-352" y="-464" transform = "rotate(0 -352 -464)" />
+</g>
+<text x="-336" y="-432" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A3</tspan></text>
+<text x="-336" y="-360" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#counter" x="-144" y="-432" transform = "rotate(0 -144 -432)" />
+</g>
+<text x="-200" y="-512" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A4</tspan></text>
+<text x="-200" y="-280" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#dflop" x="144" y="-464" transform = "rotate(0 144 -464)" />
+</g>
+<text x="160" y="-480" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A5</tspan></text>
+<text x="160" y="-296" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#diffschmitt" x="320" y="-448" transform = "rotate(0 320 -448)" />
+</g>
+<text x="336" y="-432" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A6</tspan></text>
+<text x="336" y="-328" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#diffschmtbuf" x="464" y="-448" transform = "rotate(0 464 -448)" />
+</g>
+<text x="480" y="-432" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A7</tspan></text>
+<text x="480" y="-328" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#diffschmtinv" x="576" y="-448" transform = "rotate(0 576 -448)" />
+</g>
+<text x="592" y="-432" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A8</tspan></text>
+<text x="592" y="-328" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#inv" x="688" y="-448" transform = "rotate(0 688 -448)" />
+</g>
+<text x="704" y="-416" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A9</tspan></text>
+<text x="704" y="-344" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#or" x="832" y="-464" transform = "rotate(0 832 -464)" />
+</g>
+<text x="832" y="-456" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A10</tspan></text>
+<text x="832" y="-336" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#phidet" x="960" y="-400" transform = "rotate(0 960 -400)" />
+</g>
+<text x="968" y="-464" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.25em">A11</tspan></text>
+<text x="968" y="-336" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#schmitt" x="-592" y="-272" transform = "rotate(0 -592 -272)" />
+</g>
+<text x="-576" y="-256" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A12</tspan></text>
+<text x="-576" y="-152" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#schmtbuf" x="-448" y="-288" transform = "rotate(0 -448 -288)" />
+</g>
+<text x="-432" y="-256" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A13</tspan></text>
+<text x="-432" y="-184" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#schmtinv" x="-320" y="-288" transform = "rotate(0 -320 -288)" />
+</g>
+<text x="-304" y="-256" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A14</tspan></text>
+<text x="-304" y="-184" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#srflop" x="-160" y="-288" transform = "rotate(0 -160 -288)" />
+</g>
+<text x="-192" y="-288" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A15</tspan></text>
+<text x="-192" y="-136" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#xor" x="0" y="-272" transform = "rotate(0 0 -272)" />
+</g>
+<text x="24" y="-248" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A16</tspan></text>
+<text x="24" y="-160" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#battery" x="144" y="-272" transform = "rotate(0 144 -272)" />
+</g>
+<text x="176" y="-256" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">V1</tspan></text>
+<g 
+>
+<use xlink:href="#cell" x="272" y="-256" transform = "rotate(0 272 -256)" />
+</g>
+<text x="304" y="-248" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">V2</tspan></text>
+<g 
+>
+<use xlink:href="#DIAC" x="352" y="-240" transform = "rotate(0 352 -240)" />
+</g>
+<text x="408" y="-168" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">DIAC</tspan></text>
+<g 
+>
+<use xlink:href="#Epoly" x="-608" y="-64" transform = "rotate(0 -608 -64)" />
+</g>
+<text x="-576" y="-48" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">E1</tspan></text>
+<text x="-576" y="40" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">POLY()</tspan></text>
+<g 
+>
+<use xlink:href="#EuropeanCap" x="-464" y="-32" transform = "rotate(0 -464 -32)" />
+</g>
+<text x="-432" y="-28" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">C1</tspan></text>
+<g 
+>
+<use xlink:href="#EuropeanPolcap" x="-368" y="-32" transform = "rotate(0 -368 -32)" />
+</g>
+<text x="-336" y="-28" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">C2</tspan></text>
+<g 
+>
+<use xlink:href="#EuropeanResistor" x="-240" y="-112" transform = "rotate(0 -240 -112)" />
+</g>
+<text x="-201" y="-72" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">R1</tspan></text>
+<g 
+>
+<use xlink:href="#fixedind" x="-144" y="-96" transform = "rotate(0 -144 -96)" />
+</g>
+<text x="-100" y="-56" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">L1</tspan></text>
+<g 
+>
+<use xlink:href="#Gpoly" x="-32" y="-112" transform = "rotate(0 -32 -112)" />
+</g>
+<text x="0" y="-96" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">G1</tspan></text>
+<text x="0" y="-8" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">POLY()</tspan></text>
+<g 
+>
+<use xlink:href="#jumper" x="128" y="-112" transform = "rotate(0 128 -112)" />
+</g>
+<text x="136" y="-112" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#neonbulb" x="320" y="-64" transform = "rotate(0 320 -64)" />
+</g>
+<text x="328" y="-64" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#NIGBT" x="-288" y="48" transform = "rotate(0 -288 48)" />
+</g>
+<text x="-224" y="80" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">Z1</tspan></text>
+<text x="-224" y="120" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">NIGBT</tspan></text>
+<g 
+>
+<use xlink:href="#pentode" x="-96" y="96" transform = "rotate(0 -96 96)" />
+</g>
+<text x="-112" y="176" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">Pentrode</tspan></text>
+<g 
+>
+<use xlink:href="#PIGBT" x="16" y="48" transform = "rotate(0 16 48)" />
+</g>
+<text x="80" y="80" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">Z2</tspan></text>
+<text x="80" y="120" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">PIGBT</tspan></text>
+<g 
+>
+<use xlink:href="#SCR" x="208" y="80" transform = "rotate(0 208 80)" />
+</g>
+<text x="240" y="152" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">SCR</tspan></text>
+<g 
+>
+<use xlink:href="#signal" x="368" y="48" transform = "rotate(0 368 48)" />
+</g>
+<text x="400" y="64" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">V3</tspan></text>
+<text x="400" y="152" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">SINE(0 1 1K)</tspan></text>
+<g 
+>
+<use xlink:href="#tetrode" x="592" y="96" transform = "rotate(0 592 96)" />
+</g>
+<text x="576" y="176" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">Tetrode</tspan></text>
+<g 
+>
+<use xlink:href="#TRIAC" x="752" y="-128" transform = "rotate(0 752 -128)" />
+</g>
+<text x="808" y="-56" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">TRIAC</tspan></text>
+<g 
+>
+<use xlink:href="#triode" x="752" y="80" transform = "rotate(0 752 80)" />
+</g>
+<text x="736" y="144" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">Triode</tspan></text>
+<g 
+>
+<use xlink:href="#urc" x="912" y="-144" transform = "rotate(0 912 -144)" />
+</g>
+<text x="956" y="-72" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">URC</tspan></text>
+<g 
+>
+<use xlink:href="#urc2" x="912" y="0" transform = "rotate(0 912 0)" />
+</g>
+<text x="956" y="56" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">URC</tspan></text>
+<g 
+>
+<use xlink:href="#xtal" x="1024" y="-144" transform = "rotate(0 1024 -144)" />
+</g>
+<text x="1056" y="-144" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">C3</tspan></text>
+<g 
+>
+<use xlink:href="#xvaristor" x="1040" y="-32" transform = "rotate(0 1040 -32)" />
+</g>
+<text x="1084" y="44" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">varistor</tspan></text>
+<g 
+>
+<use xlink:href="#UniversalOpamp2" x="-576" y="288" transform = "rotate(0 -576 288)" />
+</g>
+<text x="-568" y="288" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#opamp" x="-416" y="224" transform = "rotate(0 -416 224)" />
+</g>
+<text x="-408" y="224" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em">opamp</tspan></text>
+<g 
+>
+<use xlink:href="#opamp2" x="-272" y="224" transform = "rotate(0 -272 224)" />
+</g>
+<text x="-248" y="320" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">opamp2</tspan></text>
+<g 
+>
+<use xlink:href="#varistor" x="-112" y="224" transform = "rotate(0 -112 224)" />
+</g>
+<text x="-104" y="256" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A17</tspan></text>
+<text x="-104" y="328" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+<g 
+>
+<use xlink:href="#sample" x="48" y="272" transform = "rotate(0 48 272)" />
+</g>
+<text x="-8" y="192" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">A18</tspan></text>
+<text x="-8" y="392" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em"></tspan></text>
+</g>
+</svg>
