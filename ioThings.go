@@ -182,7 +182,7 @@ func convertIfUtf16(inString string) (string, bool) {
 }
 
 // add comment notation and line number to logOut info and add carriage return
-// Also print out the logOut and clear logOut
+// Also print out the logOut
 func logOutComment(logOut string, lineNum int) string {
 	var outString string
 	if lineNum != -1 { // dont include line number if lineNum = -1
