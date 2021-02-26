@@ -36,7 +36,7 @@ func commandFlags(version string) (inFile fileInfo, outFile fileInfo, symPath, t
 
 	flag.Parse()
 	if *versionPtr {
-		fmt.Println("Icemaker ", version)
+		fmt.Println("ltspice2svg: ", version)
 	}
 	exitCode := 0
 	inFileStr = flag.Arg(0)
