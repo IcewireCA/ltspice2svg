@@ -2,7 +2,7 @@
 # to run this shell script use: bash buildExecutables.sh
 #
 # Script is used to build and zip ltspice2svg versions
-date=_210225
+date=_210302
 env GOOS=windows GOARCH=amd64 go build -o binaries/ltspice2svg.exe
 zip -r binaries/ltspice2svgWin64$date.zip binaries/ltspice2svg.exe
 rm binaries/ltspice2svg.exe
