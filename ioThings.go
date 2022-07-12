@@ -22,10 +22,11 @@ func commandFlags(version string) (inFile fileInfo, outFile fileInfo, symPath, t
 	outFilePtr := flag.String("export", "", "outFile - REQUIRED FLAG\nFile extension should be .svg")
 	symPathPtr := flag.String("symPath", "", "symPath - path for where to look for LTSpice symbols")
 
-	txtModePtr := flag.String("text", "noChange", "Choices are noChange, latex, subscript, or symbol")
+	txtModePtr := flag.String("text", "noChange", "Choices are noChange, latex, latexVertAdj, subscript, or symbol")
 	// text flag sets test output as well as changing to symbol svg generation
 	// - if left blank or not used, text is unchanged
 	// - if "latex", instantiation names will be put in latex equations (nothing else is changed)
+	// - if "latexVertAdj", instatiation names will be put in latex equations AND adjusted for bottom, top and centre.
 	// - if "subscript", instantiation names will have subscripts and if _{x1} is used, it will also be put as a subscript
 	//   labels do not accept "{" so x_dd will be equivalent to x_{dd}
 	// - if "symbol", the input file should be an ltspice symbol and the output will be the svg output for that symbol to be

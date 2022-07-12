@@ -476,7 +476,7 @@ func addSymbols(inLines []string, symbolDefn, txtMode string) ([]string, string)
 			default:
 				switch txtMode {
 				case "latex":
-					text = latexText(text, vertPos, true)
+					text = latexText(text, txtMode, vertPos, true)
 				case "subscript":
 					text = subText(text, vertPos, true)
 				default:
@@ -506,7 +506,7 @@ func addSymbols(inLines []string, symbolDefn, txtMode string) ([]string, string)
 						default:
 							switch txtMode {
 							case "latex":
-								text = latexText(text, vertPos, false)
+								text = latexText(text, txtMode, vertPos, false)
 							default:
 							}
 							svgLine = placeTextSym(xs, ys, text, vertPos, horizPos, size, x1, y1, rotateMirror, rotateNum)
@@ -516,7 +516,7 @@ func addSymbols(inLines []string, symbolDefn, txtMode string) ([]string, string)
 						if (text != ".") && (text != "\"\"") {
 							switch txtMode {
 							case "latex":
-								text = latexText(text, vertPos, false)
+								text = latexText(text, txtMode, vertPos, false)
 							default:
 							}
 							svgLine = placeTextSym(xs, ys, text, vertPos, horizPos, size, x1, y1, rotateMirror, rotateNum)
@@ -594,19 +594,21 @@ func chgValue2Units(text, symbol, txtMode string) string {
 	return text
 }
 
-func latexText(text, vertPos string, makeEquation bool) string {
+func latexText(text, txtMode, vertPos string, makeEquation bool) string {
 	var re1 = regexp.MustCompile(`(?m)^(?P<first>.)(?P<rest>.+)`)
 	var re2 = regexp.MustCompile(`(?m)(?P<all>.+)`)
 	if makeEquation {
 		text = re1.ReplaceAllString(text, "$ ${first}_{${rest}}$")
 	}
-	switch vertPos {
-	case "Bottom":
-		text = re2.ReplaceAllString(text, "\\adjustbox{raise=0.5ex}{${all}}")
-	case "Center":
-		text = re2.ReplaceAllString(text, "\\adjustbox{raise=-0.5ex}{${all}}")
-	case "Top":
-		text = re2.ReplaceAllString(text, "\\adjustbox{raise=-1.5ex}{${all}}")
+	if txtMode == "latexVertAdj" {
+		switch vertPos {
+		case "Bottom":
+			text = re2.ReplaceAllString(text, "\\adjustbox{raise=0.5ex}{${all}}")
+		case "Center":
+			text = re2.ReplaceAllString(text, "\\adjustbox{raise=-0.5ex}{${all}}")
+		case "Top":
+			text = re2.ReplaceAllString(text, "\\adjustbox{raise=-1.5ex}{${all}}")
+		}
 	}
 	return text
 }
@@ -1037,7 +1039,7 @@ func addText(inString, txtMode string) string {
 			}
 			switch txtMode {
 			case "latex":
-				text = latexText(text, vertPos, false)
+				text = latexText(text, txtMode, vertPos, false)
 			case "subscript":
 				text = subText(text, vertPos, false)
 			default:
@@ -1126,7 +1128,7 @@ func addLabel(x1, y1, label string, wiresInt [][4]int, txtMode string) string {
 
 	switch txtMode {
 	case "latex":
-		label = latexText(label, vertPos, true)
+		label = latexText(label, txtMode, vertPos, true)
 	case "subscript":
 		label = subText(label, vertPos, false)
 	default:
@@ -1150,7 +1152,7 @@ func addIoPin(x1, y1, label, ioType string, wiresInt [][4]int, txtMode string) [
 	case vertPos == "Top" && horizPos == "Center": // at bottom of wire
 		switch txtMode {
 		case "latex":
-			label = latexText(label, "Top", true)
+			label = latexText(label, txtMode, "Top", true)
 		case "subscript":
 			label = subText(label, "Top", false)
 		default:
@@ -1172,7 +1174,7 @@ func addIoPin(x1, y1, label, ioType string, wiresInt [][4]int, txtMode string) [
 	case vertPos == "Bottom" && horizPos == "Center": // at top of wire
 		switch txtMode {
 		case "latex":
-			label = latexText(label, "Bottom", true)
+			label = latexText(label, txtMode, "Bottom", true)
 		case "subscript":
 			label = subText(label, "Bottom", false)
 		default:
@@ -1195,7 +1197,7 @@ func addIoPin(x1, y1, label, ioType string, wiresInt [][4]int, txtMode string) [
 	case vertPos == "Center" && horizPos == "Left": // at right end of wire
 		switch txtMode {
 		case "latex":
-			label = latexText(label, "Center", true)
+			label = latexText(label, txtMode, "Center", true)
 		case "subscript":
 			label = subText(label, "Center", false)
 		default:
@@ -1208,7 +1210,7 @@ func addIoPin(x1, y1, label, ioType string, wiresInt [][4]int, txtMode string) [
 	case vertPos == "Center" && horizPos == "Right": // at left end of wire
 		switch txtMode {
 		case "latex":
-			label = latexText(label, "Center", true)
+			label = latexText(label, txtMode, "Center", true)
 		case "subscript":
 			label = subText(label, "Center", false)
 		default:
