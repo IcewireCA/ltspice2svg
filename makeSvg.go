@@ -596,19 +596,8 @@ func chgValue2Units(text, symbol, txtMode string) string {
 
 func latexText(text, txtMode, vertPos string, makeEquation bool) string {
 	var re1 = regexp.MustCompile(`(?m)^(?P<first>.)(?P<rest>.+)`)
-	var re2 = regexp.MustCompile(`(?m)(?P<all>.+)`)
 	if makeEquation {
-		text = re1.ReplaceAllString(text, "$ ${first}_{${rest}}$")
-	}
-	if txtMode == "latexVertAdj" {
-		switch vertPos {
-		case "Bottom":
-			text = re2.ReplaceAllString(text, "\\adjustbox{raise=0.5ex}{${all}}")
-		case "Center":
-			text = re2.ReplaceAllString(text, "\\adjustbox{raise=-0.5ex}{${all}}")
-		case "Top":
-			text = re2.ReplaceAllString(text, "\\adjustbox{raise=-1.5ex}{${all}}")
-		}
+		text = re1.ReplaceAllString(text, "$$${first}_{${rest}}$")
 	}
 	return text
 }
@@ -1252,34 +1241,57 @@ func addwiresInt(x1, y1, x2, y2 string) [4]int {
 }
 
 func placeText(x1, y1, text, vertPos, horizPos, size string) string {
-	var tempStr, outString string
-	var dxAdj, dyAdj int // used for adjustments of anchor so anchor is further away from objects
+	var anchorStr, fontStr, outString string
+	var dxAdj, dyAdj, fontSize int // used for adjustments of anchor so anchor is further away from objects
 
 	x1Num, _ := strconv.Atoi(x1)
 	y1Num, _ := strconv.Atoi(y1)
 
 	// outString = "<text x=\"" + x1 + "\" y=\"" + y1 + "\" style=\"white-space:pre;"
 	// <tspan></tspan> being used for horizontal and vertical adjustments in units of em (font size unit so it changes with font size)
+	switch size {
+	case "0":
+		fontStr = "font-size:8px;"
+		fontSize = 8
+	case "1":
+		fontStr = "font-size:14px;"
+		fontSize = 14
+	case "2":
+		fontStr = "font-size:20px;"
+		fontSize = 20
+	case "3":
+		fontStr = "font-size:26px;"
+		fontSize = 26
+	case "4":
+		fontStr = "font-size:32px;"
+		fontSize = 32
+	case "5":
+		fontStr = "font-size:38px;"
+		fontSize = 38
+	case "6":
+		fontStr = "font-size:44px;"
+		fontSize = 44
+	case "7":
+		fontStr = "font-size:50px;"
+		fontSize = 50
+	}
 	switch vertPos {
 	case "Top": // top refers to the anchor point being on top of the text
-		text = "<tspan dy=\"0.75em\">" + text + "</tspan>"
-		dyAdj = 8
+		dyAdj = 4 + fontSize
 	case "Center":
-		text = "<tspan dy=\"0.25em\">" + text + "</tspan>"
-		dyAdj = 0
+		dyAdj = 0 + fontSize/3
 	case "Bottom":
-		text = "<tspan dy=\"0.0em\">" + text + "</tspan>"
-		dyAdj = -8
+		dyAdj = -16
 	}
 	switch horizPos {
 	case "Left": // left refers to the anchor point being left of the text
-		tempStr = tempStr + "text-anchor:start;"
+		anchorStr = "text-anchor:start;"
 		dxAdj = 8
 	case "Center":
-		tempStr = tempStr + "text-anchor:middle;"
+		anchorStr = "text-anchor:middle;"
 		dxAdj = 0
 	case "Right":
-		tempStr = tempStr + "text-anchor:end;"
+		anchorStr = "text-anchor:end;"
 		dxAdj = -8
 	}
 	x1Num = x1Num + dxAdj
@@ -1288,26 +1300,7 @@ func placeText(x1, y1, text, vertPos, horizPos, size string) string {
 	y1 = strconv.Itoa(y1Num)
 
 	outString = "<text x=\"" + x1 + "\" y=\"" + y1 + "\" style=\"white-space:pre;"
-	outString = outString + tempStr
-	switch size {
-	case "0":
-		tempStr = "font-size:8px;"
-	case "1":
-		tempStr = "font-size:14px;"
-	case "2":
-		tempStr = "font-size:20px;"
-	case "3":
-		tempStr = "font-size:26px;"
-	case "4":
-		tempStr = "font-size:32px;"
-	case "5":
-		tempStr = "font-size:38px;"
-	case "6":
-		tempStr = "font-size:44px;"
-	case "7":
-		tempStr = "font-size:50px;"
-	}
-	outString = outString + tempStr
+	outString = outString + anchorStr + fontStr
 	outString = outString + "\">" + text + "</text>"
 	return outString
 }
