@@ -539,7 +539,7 @@ func chgValue2Units(text, symbol, txtMode string) string {
 	var number, tail, prefix string
 	var re0 = regexp.MustCompile(`(?m)\s*(?P<res1>\d+\.?\d*)\s*(?P<res2>.*)$`)
 	var reFirstChar = regexp.MustCompile(`(?m)\s*(?P<res1>\w).*`)
-	var reUnits = regexp.MustCompile(`(?m)\\units{`)
+	var reUnits = regexp.MustCompile(`(?m)\\mathrm{`)
 	if txtMode != "latex" {
 		return text
 	}
@@ -582,11 +582,11 @@ func chgValue2Units(text, symbol, txtMode string) string {
 		}
 		switch symbol {
 		case "svg_res":
-			text = "$" + number + " \\units{" + prefix + " \\Omega}$"
+			text = "$" + number + " \\mathrm{" + prefix + " \\Omega}$"
 		case "svg_cap":
-			text = "$" + number + " \\units{" + prefix + " F}$"
+			text = "$" + number + " \\mathrm{" + prefix + " F}$"
 		case "svg_ind":
-			text = "$" + number + " \\units{" + prefix + " H}$"
+			text = "$" + number + " \\mathrm{" + prefix + " H}$"
 		default:
 		}
 	}
