@@ -33,9 +33,6 @@ chmod 755 ltspice2svg
 
 Similar to MacOS/Linux above but with Windows commands
 
-Website/Documentation
--------------
-- [https://www.icewire.ca](https://www.icewire.ca)
 
 License
 -------
