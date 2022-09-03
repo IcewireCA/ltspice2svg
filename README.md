@@ -13,7 +13,6 @@ Why should I use this app?
 Versions
 --------
 - Available for MacOS, Linux and Windows
-- Binaries located at [https://www.icewire.ca](https://www.icewire.ca)
 
 Quick Setup
 -----------
