@@ -537,9 +537,13 @@ func addSymbols(inLines []string, symbolDefn, txtMode string) ([]string, string)
 func chgValue2Units(text, symbol, txtMode string) string {
 	var result []string
 	var number, tail, prefix string
+	var re00 = regexp.MustCompile(`(?m)\$`)
 	var re0 = regexp.MustCompile(`(?m)\s*(?P<res1>\d+\.?\d*)\s*(?P<res2>.*)$`)
 	var reFirstChar = regexp.MustCompile(`(?m)\s*(?P<res1>\w).*`)
 	var reUnits = regexp.MustCompile(`(?m)\\mathrm{`)
+	if re00.MatchString(text) { // if $ present then do nothing
+		return text
+	}
 	if txtMode != "latex" {
 		return text
 	}
@@ -595,6 +599,15 @@ func chgValue2Units(text, symbol, txtMode string) string {
 }
 
 func latexText(text, txtMode, vertPos string, makeEquation bool) string {
+	var re0 = regexp.MustCompile(`(?m)_`) // if underscore present, do nothing but add $$
+	// if no $ already present
+	var re2 = regexp.MustCompile(`(?m)\$`)
+	if re0.MatchString(text) {
+		if !re2.MatchString(text) {
+			text = `$` + text + `$`
+		}
+		return text
+	}
 	var re1 = regexp.MustCompile(`(?m)^(?P<first>.)(?P<rest>.+)`)
 	if makeEquation {
 		text = re1.ReplaceAllString(text, "$$${first}_{${rest}}$")
