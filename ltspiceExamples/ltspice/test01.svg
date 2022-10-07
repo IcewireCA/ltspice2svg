@@ -10,8 +10,8 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
 	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-	width = "800" height = "384"
-	viewBox="-1120 32 800 384"
+	width = "736" height = "416"
+	viewBox="-1152 0 736 416"
 	version="1.1"
 	id="svg8"
 	inkscape:version="0.92.2 5c3e80d, 2017-08-06"
@@ -126,6 +126,51 @@
      </g>
 </defs>
 <defs>
+	<g id="svg_voltage">
+	<circle cx="0" cy="32" r="24" style="stroke:black; stroke-width:4;fill:white"/>
+	<path 
+	d="
+	M -8,24 8,24
+	M -8,44 8,44
+	M 0,16 0,32
+	M 0,64 0,56
+	M 0,0 0,8
+	"
+	style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+	/>
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	<!-- default text positions and size 
+		"svg_voltage" WINDOW 0 -36 20 Right 2
+		"svg_voltage" WINDOW 3 -36 44 Right 2
+		"svg_voltage" SYMATTR Value I
+		"svg_voltage" SYMATTR Prefix I
+	-->
+	</g>
+</defs>
+<defs>
+	<g id="svg_current">
+	<circle cx="0" cy="32" r="24" style="stroke:black; stroke-width:4;fill:white"/>
+	<path 
+	d="
+	M 0,48 4,36
+	M 0,48 -4,36
+	M -4,36 4,36
+	M 0,16 0,36
+	M 0,64 0,56
+	M 0,0 0,8
+	"
+	style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+	/>
+	<rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
+	<!-- default text positions and size 
+		"svg_current" WINDOW 0 -36 20 Right 2
+		"svg_current" WINDOW 3 -36 44 Right 2
+		"svg_current" SYMATTR Value I
+		"svg_current" SYMATTR Prefix I
+	-->
+	</g>
+</defs>
+<defs>
 	  <g id="svg_res">
 		  <path 
 		 d="M 16,0 32,5
@@ -146,31 +191,18 @@
 		-->
 	  </g>
 </defs>
-<defs>
-     <g id="svg_meas_imped">
-     <path 
-     d="
-     M 32,0 32,36
-	M 32,0 40,16
-	M 32,0 24,16
-	M 32,36 4,36
-"
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     />      
-     <rect x="-32" y="-32" width="160" height="160" style="fill:none;stroke:none" />
-     </g>
-</defs>
 
 <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
-<polyline points="-832 128 -960 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-<polyline points="-656 128 -832 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-832 128 -976 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-768 128 -832 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-656 128 -704 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 <polyline points="-576 128 -656 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-<polyline points="-960 160 -960 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-976 160 -976 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 <polyline points="-832 160 -832 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 <polyline points="-656 160 -656 128" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-<polyline points="-960 256 -960 224" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-976 256 -976 224" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 <polyline points="-832 256 -832 224" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-<polyline points="-832 256 -960 256" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+<polyline points="-832 256 -976 256" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 <polyline points="-768 256 -832 256" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 <polyline points="-656 256 -656 224" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 <polyline points="-656 256 -704 256" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -184,42 +216,36 @@
 <use xlink:href="#svg_dot" x="-592" y="256" transform = "rotate(0 -592 256)" />
 <g 
 >
+<use xlink:href="#svg_voltage" x="-768" y="128" transform = "rotate(270 -768 128)" />
+</g>
+<g 
+>
+<use xlink:href="#svg_current" x="-976" y="160" transform = "rotate(0 -976 160)" />
+</g>
+<text x="-1017" y="183" style="white-space:pre;text-anchor:end;font-size:20px;">$I_1$</text>
+<g 
+>
 <use xlink:href="#svg_res" x="-848" y="160" transform = "rotate(0 -848 160)" />
 </g>
-<text x="-800" y="181" style="white-space:pre;text-anchor:start;font-size:20px;">$R_1$</text>
-<text x="-801" y="216" style="white-space:pre;text-anchor:start;font-size:20px;">$VAL{R_1}$</text>
 <g 
 >
 <use xlink:href="#svg_res" x="-672" y="160" transform = "rotate(0 -672 160)" />
 </g>
-<text x="-623" y="179" style="white-space:pre;text-anchor:start;font-size:20px;">$R_31$</text>
-<text x="-623" y="216" style="white-space:pre;text-anchor:start;font-size:20px;">$VAL{R_3}$</text>
 <g 
 >
 <use xlink:href="#svg_res" x="-704" y="240" transform = "rotate(90 -704 240)" />
 </g>
-<text x="-736" y="296" style="white-space:pre;text-anchor:middle;font-size:20px;">$VAL{R_2,=}$</text>
-<g 
->
-<use xlink:href="#svg_meas_imped" x="-512" y="160" transform = "rotate(270 -512 160)" />
-</g>
-<text x="-512" y="160" style="white-space:pre;text-anchor:middle;"></text>
-<g 
-transform = "scale(-1 1) translate(512 0) translate(512 0)" >
-<use xlink:href="#svg_meas_imped" x="-512" y="224" transform = "rotate(90 -512 224)" />
-</g>
-<text x="-512" y="224" style="white-space:pre;text-anchor:middle;"></text>
-<g 
->
-<use xlink:href="#svg_res" x="-976" y="160" transform = "rotate(0 -976 160)" />
-</g>
-<text x="-928" y="184" style="white-space:pre;text-anchor:start;font-size:20px;">$R_{28}$</text>
-<text x="-928" y="214" style="white-space:pre;text-anchor:start;font-size:20px;">$85$</text>
 <use xlink:href="#svg_gnd" x="-592" y="288" transform = "rotate(0 -592 288)" />
 <use xlink:href="#svg_port" x="-576" y="128" transform = "rotate(0 -576 128)" />
 <text x="-564" y="134" style="white-space:pre;text-anchor:start;font-size:20px;">A</text>
 <use xlink:href="#svg_port" x="-576" y="256" transform = "rotate(0 -576 256)" />
 <text x="-564" y="262" style="white-space:pre;text-anchor:start;font-size:20px;">B</text>
-<text x="-480" y="198" style="white-space:pre;text-anchor:start;font-size:20px;">$R_{out}$</text>
+<text x="-1016" y="214" style="white-space:pre;text-anchor:end;font-size:20px;">$VAL{I_1}$</text>
+<text x="-736" y="80" style="white-space:pre;text-anchor:middle;font-size:20px;">$VAL{V_1,=}$</text>
+<text x="-800" y="182" style="white-space:pre;text-anchor:start;font-size:20px;">$R_1$</text>
+<text x="-800" y="214" style="white-space:pre;text-anchor:start;font-size:20px;">$VAL{R_1}$</text>
+<text x="-744" y="304" style="white-space:pre;text-anchor:middle;font-size:20px;">$VAL{R_2,=}$</text>
+<text x="-616" y="182" style="white-space:pre;text-anchor:start;font-size:20px;">$R_3$</text>
+<text x="-616" y="214" style="white-space:pre;text-anchor:start;font-size:20px;">$VAL{R_3}$</text>
 </g>
 </svg>

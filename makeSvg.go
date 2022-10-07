@@ -45,6 +45,7 @@ func ltSpice2svg(LTSpiceInput, symPath, txtMode, dotsMode, fontType string) stri
 	var reFixMu = regexp.MustCompile(`(?m)\&\#956;`)
 	tail := "</g>\n</svg>"
 	fontLine = "<style>text {font-family:" + fontType + ";}</style>\n"
+	LTSpiceInput = fixVal(LTSpiceInput)
 	inLines = strings.Split(LTSpiceInput, "\n")
 
 	symbolDefn, logOut = getSymbolDefn(symPath, inLines)
@@ -74,6 +75,13 @@ func ltSpice2svg(LTSpiceInput, symPath, txtMode, dotsMode, fontType string) stri
 	outString = strings.Join(drawSlc, "\n")
 	outString = reFixMu.ReplaceAllString(outString, "\\mu") // replace unicode \mu with \mu utf8
 	outString = errorHeader + outString
+	return outString
+}
+
+func fixVal(inString string) string {
+	var reFixVal = regexp.MustCompile(`(?m)(?P<res1>VAL{.*})\s*$`)
+	var outString string
+	outString = reFixVal.ReplaceAllString(inString, "$$$res1$")
 	return outString
 }
 
