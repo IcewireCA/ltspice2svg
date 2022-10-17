@@ -41,7 +41,7 @@ func main() {
 
 	ltSpiceInput, logOut = getInputFiles(inFile.full)
 	if logOut != "" {
-		errorHeader = errorHeader + logOutError(logOut, -1)
+		errorHeader = errorHeader + "<!-- " + logOut + " -->\n"
 	}
 	switch txtMode {
 	case "symbol":

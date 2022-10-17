@@ -189,7 +189,7 @@ func logOutError(logOut string, lineNum int) string {
 	if lineNum != -1 { // dont include line number if lineNum = -1
 		logOut = logOut + " - Line number: " + strconv.Itoa(lineNum+1)
 	}
+	fmt.Print(logOut + "\n")
 	outString = "<!-- " + logOut + " -->\n" // use svg comment notation and add carriage return
-	fmt.Print(outString)
 	return outString
 }
