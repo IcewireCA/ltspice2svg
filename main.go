@@ -26,7 +26,7 @@ func main() {
 
 	//	todayDate = currentTime.Format("2006-01-02")
 	// ENTER NEW VERSION NUMBER/DATE HERE
-	version = "0.8.3" + " (" + "2022-08-17" + ")"
+	version = "0.8.4" + " (" + "2022-10-17" + ")"
 
 	inFile, outFile, symPath, txtMode, dotsMode, fontType, logOut = commandFlags(version) // outFile depends on inFile file extension
 	fileWriteString("", outFile.full)
@@ -36,12 +36,12 @@ func main() {
 	}
 
 	errorHeader = `<?xml version="1.0" encoding="UTF-8" standalone="no"?>` + "\n"
-	errorHeader = errorHeader + logOutComment("Created with ltspice2svg: version = "+version, -1)
-	errorHeader = errorHeader + logOutComment("Tested on LTspice XVII", -1)
+	errorHeader = errorHeader + "<!-- Created with ltspice2svg: version = " + version + " -->\n"
+	errorHeader = errorHeader + "<!-- Tested on LTspice XVII -->\n"
 
 	ltSpiceInput, logOut = getInputFiles(inFile.full)
 	if logOut != "" {
-		errorHeader = errorHeader + logOutComment(logOut, -1)
+		errorHeader = errorHeader + logOutError(logOut, -1)
 	}
 	switch txtMode {
 	case "symbol":

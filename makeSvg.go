@@ -50,9 +50,9 @@ func ltSpice2svg(LTSpiceInput, symPath, txtMode, dotsMode, fontType string) stri
 
 	symbolDefn, logOut = getSymbolDefn(symPath, inLines)
 	if logOut != "" {
-		errorHeader = errorHeader + logOutComment(logOut, -1)
+		errorHeader = errorHeader + logOutError(logOut, -1)
 		logOut = "symPath is - " + symPath
-		errorHeader = errorHeader + logOutComment(logOut, -1)
+		errorHeader = errorHeader + logOutError(logOut, -1)
 	}
 
 	headerSlc = append(headerSlc, addHeader(inLines)...)
@@ -65,7 +65,7 @@ func ltSpice2svg(LTSpiceInput, symPath, txtMode, dotsMode, fontType string) stri
 	newSlc, logOut = addSymbols(inLines, symbolDefn, txtMode)
 	drawSlc = append(drawSlc, newSlc...)
 	if logOut != "" {
-		errorHeader = errorHeader + logOutComment(logOut, -1)
+		errorHeader = errorHeader + logOutError(logOut, -1)
 	}
 	drawSlc = append(headerSlc, drawSlc...) // after adding symbols, put header at the front of drawSlc
 	drawSlc = append(drawSlc, addLabels(inLines, wiresInt, txtMode)...)
@@ -221,7 +221,6 @@ func getInputFiles(LTSpiceFile string) (string, string) {
 	var inbytes []byte
 	var muByte, uByte byte
 	var err error
-	var codeUtf16 bool
 
 	inbytes, err = ioutil.ReadFile(LTSpiceFile) //
 	if err != nil {
@@ -233,10 +232,10 @@ func getInputFiles(LTSpiceFile string) (string, string) {
 
 	//	stringUtf16 := string([]byte{86, 0, 101, 0, 114, 0, 115}) // expected first 7 bytes if UTF16 encoded (in a string for comparison)
 	//	stringInputUtf16 := string([]byte(inbytes[0:7]))          // first 7 bytes of input file (made into string for comparison)
-	LTSpiceInput, codeUtf16 = convertIfUtf16(LTSpiceInput)
-	if codeUtf16 {
-		logOut = logOut + "WARNING: .asc file is UTF16 encoded which may cause problems"
-	}
+	LTSpiceInput, _ = convertIfUtf16(LTSpiceInput)
+	// if codeUtf16 {
+	// 	logOut = logOut + "WARNING: .asc file is UTF16 encoded which may cause problems"
+	// }
 	// code below is to change \mu to just u as \mu is not recognized in utf8 so it makes regex difficult
 	muByte = 181 // decimal code for \mu which is actually an invalid utf8 decimal value
 	uByte = 117  // decimal code for u

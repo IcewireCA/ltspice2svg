@@ -34,11 +34,12 @@ func commandFlags(version string) (inFile fileInfo, outFile fileInfo, symPath, t
 	fontTypePtr := flag.String("fontType", "Arial", "Font type to be used in svg output\n")
 	versionPtr := flag.Bool("version", false, "Print out version")
 
+	exitCode := 0
 	flag.Parse()
 	if *versionPtr {
 		fmt.Println("ltspice2svg: ", version)
+		os.Exit(exitCode)
 	}
-	exitCode := 0
 	inFileStr = flag.Arg(0)
 	if inFileStr == "" {
 		exitCode = 1
@@ -183,7 +184,7 @@ func convertIfUtf16(inString string) (string, bool) {
 
 // add comment notation and line number to logOut info and add carriage return
 // Also print out the logOut
-func logOutComment(logOut string, lineNum int) string {
+func logOutError(logOut string, lineNum int) string {
 	var outString string
 	if lineNum != -1 { // dont include line number if lineNum = -1
 		logOut = logOut + " - Line number: " + strconv.Itoa(lineNum+1)

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with ltspice2svg: version = 0.8.2 (2020-02-05) -->
+<!-- Created with ltspice2svg: version = 0.8.4 (2022-10-17) -->
 <!-- Tested on LTspice XVII -->
-<!-- WARNING: .asc file is UTF16 encoded which may cause problems -->
 <svg
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:cc="http://creativecommons.org/ns#"
@@ -338,129 +337,129 @@
 >
 <use xlink:href="#svg_nmos" x="128" y="224" transform = "rotate(0 128 224)" />
 </g>
-<text x="206" y="272" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">M1</tspan></text>
-<text x="136" y="224" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<text x="206" y="278" style="white-space:pre;text-anchor:start;font-size:20px;">M1</text>
+<text x="136" y="224" style="white-space:pre;text-anchor:start;"></text>
 <g 
 transform = "scale(-1 1) translate(-416 0) translate(-416 0)" >
 <use xlink:href="#svg_nmos" x="416" y="224" transform = "rotate(0 416 224)" />
 </g>
-<text x="338" y="272" style="white-space:pre;text-anchor:end;font-size:20px;"><tspan dy="0.25em">M2</tspan></text>
-<text x="408" y="224" style="white-space:pre;text-anchor:end;text-anchor:end;"><tspan dy="0.25em"></tspan></text>
+<text x="338" y="278" style="white-space:pre;text-anchor:end;font-size:20px;">M2</text>
+<text x="408" y="224" style="white-space:pre;text-anchor:end;"></text>
 <g 
 >
 <use xlink:href="#svg_current" x="352" y="624" transform = "rotate(0 352 624)" />
 </g>
-<text x="308" y="644" style="white-space:pre;text-anchor:end;font-size:20px;"><tspan dy="0.25em">I1</tspan></text>
+<text x="308" y="650" style="white-space:pre;text-anchor:end;font-size:20px;">I1</text>
 <g 
 >
 <use xlink:href="#svg_res" x="176" y="112" transform = "rotate(0 176 112)" />
 </g>
-<text x="224" y="130" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">R1</tspan></text>
-<text x="224" y="158" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">10k</tspan></text>
+<text x="224" y="136" style="white-space:pre;text-anchor:start;font-size:20px;">R1</text>
+<text x="224" y="164" style="white-space:pre;text-anchor:start;font-size:20px;">10k</text>
 <g 
 >
 <use xlink:href="#svg_res" x="336" y="112" transform = "rotate(0 336 112)" />
 </g>
-<text x="384" y="130" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">R2</tspan></text>
+<text x="384" y="136" style="white-space:pre;text-anchor:start;font-size:20px;">R2</text>
 <g 
 >
 <use xlink:href="#svg_res" x="304" y="448" transform = "rotate(90 304 448)" />
 </g>
-<text x="272" y="440" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.0em">R3</tspan></text>
+<text x="272" y="432" style="white-space:pre;text-anchor:middle;font-size:20px;">R3</text>
 <g 
 >
 <use xlink:href="#svg_cap" x="304" y="544" transform = "rotate(90 304 544)" />
 </g>
-<text x="272" y="536" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.0em">C1</tspan></text>
+<text x="272" y="528" style="white-space:pre;text-anchor:middle;font-size:20px;">C1</text>
 <g 
 >
 <use xlink:href="#svg_current" x="192" y="624" transform = "rotate(0 192 624)" />
 </g>
-<text x="148" y="644" style="white-space:pre;text-anchor:end;font-size:20px;"><tspan dy="0.25em">I2</tspan></text>
+<text x="148" y="650" style="white-space:pre;text-anchor:end;font-size:20px;">I2</text>
 <g 
 >
 <use xlink:href="#svg_block_amp" x="-496" y="224" transform = "rotate(0 -496 224)" />
 </g>
-<text x="-448" y="256" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.25em">text</tspan></text>
+<text x="-448" y="262" style="white-space:pre;text-anchor:middle;font-size:20px;">text</text>
 <g 
 >
 <use xlink:href="#svg_block_box" x="-496" y="400" transform = "rotate(0 -496 400)" />
 </g>
-<text x="-432" y="432" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.25em">text</tspan></text>
+<text x="-432" y="438" style="white-space:pre;text-anchor:middle;font-size:20px;">text</text>
 <g 
 >
 <use xlink:href="#svg_block_quant" x="-224" y="224" transform = "rotate(0 -224 224)" />
 </g>
-<text x="-216" y="224" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<text x="-216" y="224" style="white-space:pre;text-anchor:start;"></text>
 <g 
 >
 <use xlink:href="#svg_block_sum" x="-592" y="240" transform = "rotate(0 -592 240)" />
 </g>
-<text x="-584" y="240" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<text x="-584" y="240" style="white-space:pre;text-anchor:start;"></text>
 <g 
 >
 <use xlink:href="#svg_block_sum" x="-256" y="240" transform = "rotate(0 -256 240)" />
 </g>
-<text x="-248" y="240" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<text x="-248" y="240" style="white-space:pre;text-anchor:start;"></text>
 <g 
 >
 <use xlink:href="#svg_res" x="-224" y="416" transform = "rotate(0 -224 416)" />
 </g>
-<text x="-176" y="434" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">R4</tspan></text>
+<text x="-176" y="440" style="white-space:pre;text-anchor:start;font-size:20px;">R4</text>
 <g 
 >
 <use xlink:href="#svg_res" x="-224" y="560" transform = "rotate(0 -224 560)" />
 </g>
-<text x="-176" y="578" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">R5</tspan></text>
+<text x="-176" y="584" style="white-space:pre;text-anchor:start;font-size:20px;">R5</text>
 <g 
 >
 <use xlink:href="#svg_block_arrow" x="-608" y="256" transform = "rotate(0 -608 256)" />
 </g>
-<text x="-600" y="256" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<text x="-600" y="256" style="white-space:pre;text-anchor:start;"></text>
 <g 
 >
 <use xlink:href="#svg_block_arrow" x="-480" y="256" transform = "rotate(0 -480 256)" />
 </g>
-<text x="-472" y="256" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<text x="-472" y="256" style="white-space:pre;text-anchor:start;"></text>
 <g 
 >
 <use xlink:href="#svg_block_arrow" x="-272" y="256" transform = "rotate(0 -272 256)" />
 </g>
-<text x="-264" y="256" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<text x="-264" y="256" style="white-space:pre;text-anchor:start;"></text>
 <g 
 >
 <use xlink:href="#svg_block_arrow" x="-208" y="256" transform = "rotate(0 -208 256)" />
 </g>
-<text x="-200" y="256" style="white-space:pre;text-anchor:start;text-anchor:start;"><tspan dy="0.25em"></tspan></text>
+<text x="-200" y="256" style="white-space:pre;text-anchor:start;"></text>
 <g 
 >
 <use xlink:href="#svg_block_arrow" x="-384" y="432" transform = "rotate(180 -384 432)" />
 </g>
-<text x="-392" y="432" style="white-space:pre;text-anchor:end;text-anchor:end;"><tspan dy="0.25em"></tspan></text>
+<text x="-392" y="432" style="white-space:pre;text-anchor:end;"></text>
 <g 
 >
 <use xlink:href="#svg_block_arrow" x="-592" y="272" transform = "rotate(270 -592 272)" />
 </g>
-<text x="-592" y="272" style="white-space:pre;text-anchor:middle;text-anchor:middle;"><tspan dy="0.25em"></tspan></text>
+<text x="-592" y="272" style="white-space:pre;text-anchor:middle;"></text>
 <use xlink:href="#svg_gnd" x="192" y="720" transform = "rotate(0 192 720)" />
 <use xlink:href="#svg_gnd" x="352" y="720" transform = "rotate(0 352 720)" />
 <use xlink:href="#svg_port" x="80" y="272" transform = "rotate(0 80 272)" />
-<text x="68" y="272" style="white-space:pre;text-anchor:end;font-size:20px;"><tspan dy="0.25em">V_in+</tspan></text>
+<text x="68" y="278" style="white-space:pre;text-anchor:end;font-size:20px;">V_in+</text>
 <use xlink:href="#svg_port" x="80" y="368" transform = "rotate(0 80 368)" />
-<text x="68" y="368" style="white-space:pre;text-anchor:end;font-size:20px;"><tspan dy="0.25em">Vin-</tspan></text>
+<text x="68" y="374" style="white-space:pre;text-anchor:end;font-size:20px;">Vin-</text>
 <use xlink:href="#svg_supply" x="192" y="80" transform = "rotate(0 192 80)" />
-<text x="192" y="57" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.0em">V_dd</tspan></text>
+<text x="192" y="49" style="white-space:pre;text-anchor:middle;font-size:20px;">V_dd</text>
 <use xlink:href="#svg_supply" x="352" y="80" transform = "rotate(0 352 80)" />
-<text x="352" y="57" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.0em">Vdd</tspan></text>
+<text x="352" y="49" style="white-space:pre;text-anchor:middle;font-size:20px;">Vdd</text>
 <use xlink:href="#svg_port" x="-48" y="256" transform = "rotate(0 -48 256)" />
-<text x="-36" y="256" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">So</tspan></text>
+<text x="-36" y="262" style="white-space:pre;text-anchor:start;font-size:20px;">So</text>
 <use xlink:href="#svg_port" x="-720" y="256" transform = "rotate(0 -720 256)" />
-<text x="-732" y="256" style="white-space:pre;text-anchor:end;font-size:20px;"><tspan dy="0.25em">Si</tspan></text>
+<text x="-732" y="262" style="white-space:pre;text-anchor:end;font-size:20px;">Si</text>
 <use xlink:href="#svg_supply" x="-208" y="656" transform = "rotate(180 -208 656)" />
-<text x="-208" y="679" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.75em">Vss</tspan></text>
+<text x="-208" y="695" style="white-space:pre;text-anchor:middle;font-size:20px;">Vss</text>
 <use xlink:href="#svg_supply" x="-208" y="368" transform = "rotate(0 -208 368)" />
-<text x="-208" y="345" style="white-space:pre;text-anchor:middle;font-size:20px;"><tspan dy="0.0em">Vdd</tspan></text>
+<text x="-208" y="337" style="white-space:pre;text-anchor:middle;font-size:20px;">Vdd</text>
 <use xlink:href="#svg_port" x="-112" y="512" transform = "rotate(0 -112 512)" />
-<text x="-100" y="512" style="white-space:pre;text-anchor:start;font-size:20px;"><tspan dy="0.25em">Vcm</tspan></text>
+<text x="-100" y="518" style="white-space:pre;text-anchor:start;font-size:20px;">Vcm</text>
 </g>
 </svg>
