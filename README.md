@@ -3,7 +3,7 @@ Ltspice2svg app
 
 This app can
 
-- Convert an LTSpice asc file into svgggg
+- Convert an LTSpice asc file into svg
 
 Why should I use this app?
 -----
