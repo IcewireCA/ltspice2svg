@@ -593,7 +593,7 @@ func chgValue2Units(text, symbol, txtMode string) string {
 		}
 		switch symbol {
 		case "svg_res":
-			text = "$" + number + " \\mathrm{" + prefix + " \\Omega}$"
+			text = "$" + number + " \\mathrm{" + prefix + "} \\Omega$"
 		case "svg_cap":
 			text = "$" + number + " \\mathrm{" + prefix + " F}$"
 		case "svg_ind":
