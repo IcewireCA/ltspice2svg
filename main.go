@@ -26,7 +26,7 @@ func main() {
 
 	//	todayDate = currentTime.Format("2006-01-02")
 	// ENTER NEW VERSION NUMBER/DATE HERE
-	version = "0.8.5" + " (" + "2023-05-05" + ")"
+	version = "0.8.6" + " (" + "2023-06-21" + ")"
 
 	inFile, outFile, symPath, txtMode, dotsMode, fontType, logOut = commandFlags(version) // outFile depends on inFile file extension
 	fileWriteString("", outFile.full)

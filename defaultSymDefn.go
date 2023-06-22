@@ -282,7 +282,7 @@ func getDefaultSymDefn() string {
 <defs>
      <g id="svg_meas_I">
      <path 
-     d="M 32,0 32,64
+     d="M 32,0 32,48
      M 32,0 40,16
      M 32,0 24,16"
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
